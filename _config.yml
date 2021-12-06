@@ -1,5 +1,5 @@
 # Header
-navname: Bentham's Blog
+navname: Study Yeong
 
 # navigatior items
 nav:
@@ -12,10 +12,10 @@ nav:
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: Soyeong Choi
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
+description: Web Developer<br><i>LGTM 🎄</i>
 avatar: /image/avatar.jpeg
 
 # main menu navigation
@@ -25,15 +25,15 @@ avatar: /image/avatar.jpeg
 links:
   Blog: /archives
   # Category:
-  # Tags: 
+  # Tags:
   # Link:
-  # Resume:
+  Resume: https://www.notion.so/dvpsy/RESUME-7f80d3a1881644ea88c7d8036351a5bc
   # Publish:
   # Trophy:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
+  # ZhiHu: https://www.zhihu.com/people/sirice
   # LinkedIn:
   # FaceBook:
   # Twitter:
@@ -43,13 +43,13 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  Instagram: https://instagram.com/so02hi
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/so0choi
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
@@ -63,14 +63,14 @@ post_author_enable: true
 post_date_enable: true
 post_category_enable: true
 ## Post copyright
-post_copyright_enable: true
+post_copyright_enable: false
 
 post_copyright_author_enable: true
 post_copyright_permalink_enable: true
 post_copyright_license_enable: true
 post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
 post_copyright_slogan_enable: true
-post_copyright_slogan_text: Do you believe in <strong>DESTINY</strong>?
+post_copyright_slogan_text: so02hiiiiii
 ## toc
 post_toc_enable: true
 
@@ -95,7 +95,6 @@ scripts:
     # tscanlin/tocbot: Build a table of contents from headings in an HTML document.
     # https://github.com/tscanlin/tocbot
 
-
 # plugin functions
 ## Mathjax: Math Formula Support
 ## https://www.mathjax.org
@@ -104,3 +103,5 @@ mathjax:
   import: demand # global or demand
   ## global: all pages will load mathjax,this will degrade performance and some grammers may be parsed wrong.
   ## demand: Recommend option,if your post need fomula, you can declare 'mathjax: true' in Front-matter
+
+google_analytics: UA-175983012-1
