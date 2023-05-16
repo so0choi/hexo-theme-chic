@@ -24,10 +24,10 @@ avatar: /image/avatar.jpeg
 ## Unused key can be commented out.
 links:
   Blog: /archives
-  # Category:
+  Category: /category
   # Tags:
   # Link:
-  Resume: https://www.notion.so/dvpsy/RESUME-7f80d3a1881644ea88c7d8036351a5bc
+  # Resume: https://www.notion.so/dvpsy/RESUME-7f80d3a1881644ea88c7d8036351a5bc
   # Publish:
   # Trophy:
   # Gallery:
